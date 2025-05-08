@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@chakra-ui/icons": "2.1.1",
-    "@chakra-ui/react": "2.8.1",
+    "@chakra-ui/react": "2.9.0",
     "@emotion/react": "11.11.1",
     "@emotion/styled": "11.11.0",
     "@headlessui/react": "1.7.17",
@@ -83,7 +83,7 @@
     "globals": "16.0.0",
     "prettier": "3.0.3",
     "typescript": "5.0.4",
-    "vite": "6.2.0"
+    "vite": "6.2.7"
   },
   "resolutions": {
     "lodash": "4.17.21"

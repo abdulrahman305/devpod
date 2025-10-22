@@ -83,7 +83,7 @@
     "globals": "16.0.0",
     "prettier": "3.0.3",
     "typescript": "5.0.4",
-    "vite": "6.2.0"
+    "vite": "6.4.1"
   },
   "resolutions": {
     "lodash": "4.17.21"

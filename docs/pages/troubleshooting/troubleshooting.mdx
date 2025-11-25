@@ -18,4 +18,4 @@ exec $SHELL -c 'exec /Applications/DevPod.app/Contents/MacOS/DevPod'
 ### Port forwarding not working when NOT using an ide
 
 DevPod relies on an active SSH session to perform port forwarding to the local host. When running DevPod without an IDE, such as `--ide none`,
-an active SSH session needs to be open using `devpod ssh {workspace}`.
+an active SSH session needs to be open using `devpod ssh {workspace}` (unless you are specifying forwarded ports using docker compose).
